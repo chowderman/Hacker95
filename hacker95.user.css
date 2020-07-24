@@ -1,7 +1,12 @@
-/**
- * Created by Chowder Man
- * https://github.com/chowderman/Hacker95
- */
+/* ==UserStyle==
+@name           Hacker95
+@namespace      github.com/chowderman
+@version        0.0.0+1338
+@description    Style Hacker News like its Windows 95
+@author         chowderman
+@license        unlicense
+@updateURL      https://raw.githubusercontent.com/chowderman/Hacker95/master/hacker95.user.css
+==/UserStyle== */
 @-moz-document domain("ycombinator.com") {
 
 	/*Variables*/
